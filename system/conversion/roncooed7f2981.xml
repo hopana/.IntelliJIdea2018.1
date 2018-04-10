@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="F:\Workspace\roncoo\.idea\artifacts\roncoo_pay_web_boss_war.xml" timestamp="1502447031348" />
+    <file path="F:\Workspace\roncoo\.idea\artifacts\roncoo_pay_web_boss_war_exploded.xml" timestamp="1512013337629" />
+    <file path="F:\Workspace\roncoo\.idea\artifacts\roncoo_pay_web_gateway_war.xml" timestamp="1502447031458" />
+    <file path="F:\Workspace\roncoo\.idea\artifacts\roncoo_pay_web_gateway_war_exploded.xml" timestamp="1512013337656" />
+    <file path="F:\Workspace\roncoo\.idea\artifacts\roncoo_pay_web_message_war.xml" timestamp="1502447031533" />
+    <file path="F:\Workspace\roncoo\.idea\artifacts\roncoo_pay_web_message_war_exploded.xml" timestamp="1512013337685" />
+    <file path="F:\Workspace\roncoo\.idea\artifacts\roncoo_pay_web_sample_shop_war.xml" timestamp="1502447031688" />
+    <file path="F:\Workspace\roncoo\.idea\artifacts\roncoo_pay_web_sample_shop_war_exploded.xml" timestamp="1512013337711" />
+    <file path="F:\Workspace\roncoo\.idea\codeStyles\codeStyleConfig.xml" timestamp="1513317236161" />
+    <file path="F:\Workspace\roncoo\.idea\compiler.xml" timestamp="1504602539860" />
+    <file path="F:\Workspace\roncoo\.idea\encodings.xml" timestamp="1502447031813" />
+    <file path="F:\Workspace\roncoo\.idea\inspectionProfiles\Project_Default.xml" timestamp="1502446714098" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1519985099036" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__cglib_cglib_3_2_2.xml" timestamp="1519985099094" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__com_101tec_zkclient_0_4.xml" timestamp="1519985099167" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__com_alibaba_druid_1_0_20.xml" timestamp="1519985099224" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__com_alibaba_dubbo_2_5_3.xml" timestamp="1519985099286" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__com_alibaba_fastjson_1_2_11.xml" timestamp="1519985099324" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" timestamp="1519985099371" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" timestamp="1519985099425" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" timestamp="1519985099471" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__com_sun_mail_javax_mail_1_5_0.xml" timestamp="1519985099496" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_8_3.xml" timestamp="1519985099539" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1519985099584" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__commons_httpclient_commons_httpclient_3_1.xml" timestamp="1519985099630" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__commons_io_commons_io_2_5.xml" timestamp="1519985099672" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" timestamp="1519985099718" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__commons_logging_commons_logging_1_0_4.xml" timestamp="1519985099761" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__commons_logging_commons_logging_1_1_3.xml" timestamp="1519985099812" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__commons_pool_commons_pool_1_6.xml" timestamp="1519985099850" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" timestamp="1519985099894" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__io_netty_netty_3_7_0_Final.xml" timestamp="1519985099945" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__javax_activation_activation_1_1.xml" timestamp="1519985099986" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__javax_javaee_api_7_0.xml" timestamp="1519985100028" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__javax_validation_validation_api_1_0_0_GA.xml" timestamp="1519985100070" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__jaxen_jaxen_1_1_6.xml" timestamp="1519985100115" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__jline_jline_0_9_94.xml" timestamp="1519985100159" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__jstl_jstl_1_2.xml" timestamp="1519985100204" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__junit_junit_4_11.xml" timestamp="1519985100248" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__log4j_log4j_1_2_17.xml" timestamp="1519985100293" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_38.xml" timestamp="1519985100337" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_activemq_activemq_all_5_11_4.xml" timestamp="1519985100381" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_activemq_activemq_client_5_11_4.xml" timestamp="1519985100427" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_activemq_activemq_client_5_8_0.xml" timestamp="1519985100809" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_activemq_activemq_jms_pool_5_11_4.xml" timestamp="1519985100868" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_activemq_activemq_pool_5_11_4.xml" timestamp="1519985100895" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_activemq_activemq_pool_5_8_0.xml" timestamp="1519985100940" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_ant_ant_1_9_6.xml" timestamp="1519985100985" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_ant_ant_launcher_1_9_6.xml" timestamp="1519985101028" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" timestamp="1519985101101" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" timestamp="1519985101130" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_geronimo_specs_geronimo_jta_1_0_1B_spec_1_0_1.xml" timestamp="1519985101157" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_shiro_shiro_core_1_2_5.xml" timestamp="1519985101190" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" timestamp="1519985101228" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_9.xml" timestamp="1519985101271" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_fusesource_hawtbuf_hawtbuf_1_11.xml" timestamp="1519985101318" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_fusesource_hawtbuf_hawtbuf_1_9.xml" timestamp="1519985101359" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1519985101406" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_hibernate_hibernate_validator_4_2_0_Final.xml" timestamp="1519985101451" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_javassist_javassist_3_15_0_GA.xml" timestamp="1519985101476" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_jboss_netty_netty_3_2_5_Final.xml" timestamp="1519985101526" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_jdom_jdom_2_0_2.xml" timestamp="1519985101573" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_mybatis_mybatis_3_4_0.xml" timestamp="1519985101615" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_3_0.xml" timestamp="1519985101659" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_ow2_asm_asm_5_0_4.xml" timestamp="1519985101705" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_21.xml" timestamp="1519985101753" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" timestamp="1519985101797" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_aop_3_2_17_RELEASE.xml" timestamp="1519985101842" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_aspects_3_2_17_RELEASE.xml" timestamp="1519985101872" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_beans_3_2_17_RELEASE.xml" timestamp="1519985101904" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_context_3_2_17_RELEASE.xml" timestamp="1519985101930" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_context_support_3_2_17_RELEASE.xml" timestamp="1519985101964" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_core_3_2_17_RELEASE.xml" timestamp="1519985101995" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_expression_3_2_17_RELEASE.xml" timestamp="1519985102031" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_instrument_3_2_17_RELEASE.xml" timestamp="1519985102065" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_instrument_tomcat_3_2_17_RELEASE.xml" timestamp="1519985102086" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_jdbc_3_2_17_RELEASE.xml" timestamp="1519985102120" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_jms_3_2_17_RELEASE.xml" timestamp="1519985102148" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_orm_3_2_17_RELEASE.xml" timestamp="1519985102175" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_oxm_3_2_17_RELEASE.xml" timestamp="1519985102203" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_test_3_2_17_RELEASE.xml" timestamp="1519985102230" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_tx_3_2_17_RELEASE.xml" timestamp="1519985102271" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_web_3_2_17_RELEASE.xml" timestamp="1519985102290" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_webmvc_3_2_17_RELEASE.xml" timestamp="1519985102320" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__org_springframework_spring_webmvc_portlet_3_2_17_RELEASE.xml" timestamp="1519985102346" />
+    <file path="F:\Workspace\roncoo\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" timestamp="1519985102378" />
+    <file path="F:\Workspace\roncoo\.idea\misc.xml" timestamp="1505965947415" />
+    <file path="F:\Workspace\roncoo\.idea\modules.xml" timestamp="1502447031855" />
+    <file path="F:\Workspace\roncoo\.idea\workspace.xml" timestamp="1523341944940" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-app-message\roncoo-pay-app-message.iml" timestamp="1522030215330" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-app-notify\roncoo-pay-app-notify.iml" timestamp="1522030371483" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-app-queue\roncoo-pay-app-queue.iml" timestamp="1522030225000" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-common-config\roncoo-pay-common-config.iml" timestamp="1502447030968" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-common-core\roncoo-pay-common-core.iml" timestamp="1512013335437" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-dubbo.iml" timestamp="1504602539092" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-account-api\roncoo-pay-service-account-api.iml" timestamp="1512013335469" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-account\roncoo-pay-service-account.iml" timestamp="1522030371510" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-accounting-api\roncoo-pay-service-accounting-api.iml" timestamp="1512013335541" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-accounting\roncoo-pay-service-accounting.iml" timestamp="1522030371537" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-message-api\roncoo-pay-service-message-api.iml" timestamp="1512013335609" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-message\roncoo-pay-service-message.iml" timestamp="1522030371564" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-notify-api\roncoo-pay-service-notify-api.iml" timestamp="1512013335691" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-notify\roncoo-pay-service-notify.iml" timestamp="1522030371594" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-trade-api\roncoo-pay-service-trade-api.iml" timestamp="1512013335746" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-trade\roncoo-pay-service-trade.iml" timestamp="1522030371620" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-user-api\roncoo-pay-service-user-api.iml" timestamp="1512013335773" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-service-user\roncoo-pay-service-user.iml" timestamp="1522030371726" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-web-boss\roncoo-pay-web-boss.iml" timestamp="1522030371649" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-web-gateway\roncoo-pay-web-gateway.iml" timestamp="1522030371674" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-web-message\roncoo-pay-web-message.iml" timestamp="1522030371791" />
+    <file path="F:\Workspace\roncoo\roncoo-pay-web-sample-shop\roncoo-pay-web-sample-shop.iml" timestamp="1522030371764" />
+    <file path="F:\Workspace\roncoo\roncoo-pay\roncoo-pay.iml" timestamp="1502447030625" />
+  </project-files>
+</conversion>
+

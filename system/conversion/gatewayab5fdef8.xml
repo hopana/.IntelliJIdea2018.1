@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Workplace\gateway\..\bigateway-test\bigateway-test.iml" timestamp="1522735351443" />
+    <file path="D:\Workplace\gateway\.idea\artifacts\bi_gateway_service_war_war.xml" timestamp="1504529772249" />
+    <file path="D:\Workplace\gateway\.idea\artifacts\bi_gateway_service_war_war_exploded.xml" timestamp="1514171978338" />
+    <file path="D:\Workplace\gateway\.idea\artifacts\bi_gateway_war_war.xml" timestamp="1504529772303" />
+    <file path="D:\Workplace\gateway\.idea\artifacts\bi_gateway_war_war_exploded.xml" timestamp="1519973289692" />
+    <file path="D:\Workplace\gateway\.idea\codeStyles\codeStyleConfig.xml" timestamp="1514171978505" />
+    <file path="D:\Workplace\gateway\.idea\compiler.xml" timestamp="1522735185172" />
+    <file path="D:\Workplace\gateway\.idea\encodings.xml" timestamp="1504529772393" />
+    <file path="D:\Workplace\gateway\.idea\inspectionProfiles\Project_Default.xml" timestamp="1504529758955" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1519973289758" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__asm_asm_3_3_1.xml" timestamp="1519973289815" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__c3p0_c3p0_0_9_1_2.xml" timestamp="1519973289876" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cglib_cglib_nodep_3_1.xml" timestamp="1519973289934" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_bi_commons_1_33.xml" timestamp="1519973289988" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_bi_gateway_client_1_1.xml" timestamp="1522735351584" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_pay_gateway_commonapi_1_0_0.xml" timestamp="1519973290057" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_sppay_cms_facade_35_4_5_4.xml" timestamp="1519973290129" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_sppay_commons_1_32.xml" timestamp="1519973290201" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_sppay_commons_35_4_3_3.xml" timestamp="1519973290256" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_sppay_task_api_1_0.xml" timestamp="1519973290317" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_sppay_task_api_35_4_0_6.xml" timestamp="1519973290381" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_sppay_tra_facade_1_38.xml" timestamp="1519973290446" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__cn_swiftpass_sppay_tra_facade_1_55_snapshots.xml" timestamp="1519973290498" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_alibaba_druid_1_0_24.xml" timestamp="1519973290583" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_alibaba_fastjson_1_2_28.xml" timestamp="1519973290647" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_alibaba_fastjson_1_2_5.xml" timestamp="1519973290705" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_alipay_api_alipay_sdk_java_1_0_1.xml" timestamp="1519973290800" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_alisoft_alisoft_xplatform_asf_cache_2_5_1.xml" timestamp="1519973290871" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_arlog_arlog_api_1_0_0.xml" timestamp="1519973290929" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_belerweb_pinyin4j_2_5_1.xml" timestamp="1519973290997" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_beust_jcommander_1_7.xml" timestamp="1519973291048" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_caucho_hessian_4_0_37.xml" timestamp="1519973291098" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_fasterxml_classmate_1_0_0.xml" timestamp="1519973291142" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_1.xml" timestamp="1519973291189" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" timestamp="1519973291272" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" timestamp="1519973291336" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" timestamp="1519973291473" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_google_guava_guava_19_0.xml" timestamp="1519973291526" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_google_inject_guice_2_0.xml" timestamp="1519973291588" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_google_zxing_core_2_2.xml" timestamp="1519973291637" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" timestamp="1519973291676" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" timestamp="1519973291719" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" timestamp="1519973291772" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_8_0.xml" timestamp="1519973291843" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_9_3.xml" timestamp="1519973291884" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1519973291933" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_codec_commons_codec_1_6.xml" timestamp="1522735351633" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_collections_commons_collections_3_2_1.xml" timestamp="1519973291971" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_collections_commons_collections_3_2_2.xml" timestamp="1519973292045" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_dbcp_commons_dbcp_1_4.xml" timestamp="1519973292122" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_io_commons_io_2_4.xml" timestamp="1519973292168" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_lang_commons_lang_2_5.xml" timestamp="1522735351705" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" timestamp="1519973292223" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" timestamp="1522735351756" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_logging_commons_logging_1_2.xml" timestamp="1519973292285" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_net_commons_net_3_4.xml" timestamp="1519973292324" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__commons_pool_commons_pool_1_5_4.xml" timestamp="1519973292406" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" timestamp="1519973292446" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__javax_activation_activation_1_1.xml" timestamp="1519973292488" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__javax_mail_mail_1_4.xml" timestamp="1519973292549" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__javax_servlet_jstl_1_2.xml" timestamp="1519973292607" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__javax_servlet_servlet_api_2_4.xml" timestamp="1519973292641" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" timestamp="1519973292697" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__javax_xml_bind_jaxb_api_2_2_11.xml" timestamp="1519973292753" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__junit_junit_4_11.xml" timestamp="1519973292809" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__junit_junit_4_9.xml" timestamp="1522735351838" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_30.xml" timestamp="1519973292859" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_9.xml" timestamp="1519973292905" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__net_schmizz_sshj_0_10_0.xml" timestamp="1519973292950" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__net_sf_ehcache_ehcache_2_10_1.xml" timestamp="1519973292993" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" timestamp="1519973293036" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__net_sf_json_lib_json_lib_2_4.xml" timestamp="1522735351888" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" timestamp="1519973293084" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__oracle_ojdbc_6.xml" timestamp="1519973293129" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_activemq_activemq_client_5_10_2.xml" timestamp="1519973293170" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_activemq_activemq_core_5_7_0.xml" timestamp="1519973293214" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_activemq_activemq_jms_pool_5_10_2.xml" timestamp="1519973293267" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_activemq_activemq_pool_5_10_2.xml" timestamp="1519973293333" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_activemq_kahadb_5_7_0.xml" timestamp="1519973293378" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_activemq_protobuf_activemq_protobuf_1_1.xml" timestamp="1519973293435" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_commons_commons_compress_1_5.xml" timestamp="1519973293492" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_4.xml" timestamp="1519973293531" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_commons_commons_pool2_2_4_2.xml" timestamp="1519973293567" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_core_3_0_3.xml" timestamp="1519973293609" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_rt_bindings_soap_3_0_3.xml" timestamp="1519973293654" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_rt_bindings_xml_3_0_3.xml" timestamp="1519973293718" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_rt_databinding_jaxb_3_0_3.xml" timestamp="1519973293765" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_rt_frontend_jaxws_3_0_3.xml" timestamp="1519973293825" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_rt_frontend_simple_3_0_3.xml" timestamp="1519973293895" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_rt_transports_http_3_0_3.xml" timestamp="1519973293957" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_rt_ws_addr_3_0_3.xml" timestamp="1519973294028" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_rt_ws_policy_3_0_3.xml" timestamp="1519973294071" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_cxf_cxf_rt_wsdl_3_0_3.xml" timestamp="1519973294116" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" timestamp="1519973294161" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" timestamp="1519973294220" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_geronimo_specs_geronimo_jta_1_0_1B_spec_1_0_1.xml" timestamp="1519973294292" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" timestamp="1519973294351" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" timestamp="1519973294395" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_httpcomponents_httpmime_4_3.xml" timestamp="1519973294440" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_logging_log4j_log4j_api_2_3.xml" timestamp="1519973294478" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_logging_log4j_log4j_core_2_3.xml" timestamp="1519973294524" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_logging_log4j_log4j_jcl_2_3.xml" timestamp="1519973294570" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_3.xml" timestamp="1519973294623" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_logging_log4j_log4j_web_2_3.xml" timestamp="1519973294689" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_neethi_neethi_3_0_3.xml" timestamp="1519973294748" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_apache_ws_xmlschema_xmlschema_core_2_1_0.xml" timestamp="1519973294810" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_aspectj_aspectjrt_1_8_6.xml" timestamp="1519973294851" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_6.xml" timestamp="1519973294895" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_beanshell_bsh_2_0b4.xml" timestamp="1519973294938" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_bouncycastle_bcpkix_jdk15on_1_50.xml" timestamp="1519973294973" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_bouncycastle_bcprov_jdk15on_1_50.xml" timestamp="1519973295016" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" timestamp="1519973295063" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" timestamp="1519973295106" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_freemarker_freemarker_2_3_23.xml" timestamp="1522735351960" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_fusesource_hawtbuf_hawtbuf_1_9.xml" timestamp="1519973295162" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_fusesource_hawtdispatch_hawtdispatch_1_11.xml" timestamp="1519973295219" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_fusesource_hawtdispatch_hawtdispatch_transport_1_11.xml" timestamp="1519973295280" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_fusesource_mqtt_client_mqtt_client_1_3.xml" timestamp="1519973295352" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_1.xml" timestamp="1522735352009" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1519973295391" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" timestamp="1519973295437" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_jasypt_jasypt_1_9_0.xml" timestamp="1519973295499" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_1_1_GA.xml" timestamp="1519973295558" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_mybatis_mybatis_3_2_8.xml" timestamp="1519973295599" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_2_2.xml" timestamp="1519973295671" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_12.xml" timestamp="1519973295711" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_aop_4_2_1_RELEASE.xml" timestamp="1519973295755" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_beans_4_2_1_RELEASE.xml" timestamp="1519973295814" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_context_4_2_1_RELEASE.xml" timestamp="1519973295886" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_context_support_4_2_1_RELEASE.xml" timestamp="1519973295958" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_core_4_2_1_RELEASE.xml" timestamp="1519973296030" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_expression_4_2_1_RELEASE.xml" timestamp="1519973296092" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_jdbc_4_2_1_RELEASE.xml" timestamp="1519973296150" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_jms_4_2_1_RELEASE.xml" timestamp="1519973296211" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_messaging_4_2_1_RELEASE.xml" timestamp="1519973296272" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_oxm_4_2_1_RELEASE.xml" timestamp="1519973296344" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_test_4_2_1_RELEASE.xml" timestamp="1519973296407" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_tx_4_2_1_RELEASE.xml" timestamp="1519973296476" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_web_4_2_1_RELEASE.xml" timestamp="1519973296535" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_springframework_spring_webmvc_4_2_1_RELEASE.xml" timestamp="1519973296903" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_testng_testng_5_14_1.xml" timestamp="1519973296974" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__org_tukaani_xz_1_2.xml" timestamp="1519973297018" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__proxool_proxool_0_9_1.xml" timestamp="1519973297061" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__proxool_proxool_cglib_0_9_1.xml" timestamp="1519973297116" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__redis_clients_jedis_2_9_0.xml" timestamp="1519973297171" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__slite_framework_slite_core_1_0_0.xml" timestamp="1519973297231" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__slite_framework_slite_db_1_0_0.xml" timestamp="1519973297271" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__slite_framework_slite_service_1_0_0.xml" timestamp="1519973297315" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__spf_sbox_spf_sbox_1_0_0.xml" timestamp="1519973297370" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__wsdl4j_wsdl4j_1_6_3.xml" timestamp="1519973297425" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__xml_apis_xml_apis_1_0_b2.xml" timestamp="1519973297468" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__xml_resolver_xml_resolver_1_2.xml" timestamp="1519973297525" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__xmlpull_xmlpull_1_1_3_1.xml" timestamp="1519973297572" />
+    <file path="D:\Workplace\gateway\.idea\libraries\Maven__xpp3_xpp3_min_1_1_4c.xml" timestamp="1519973297623" />
+    <file path="D:\Workplace\gateway\.idea\misc.xml" timestamp="1522735185250" />
+    <file path="D:\Workplace\gateway\.idea\modules.xml" timestamp="1522735185355" />
+    <file path="D:\Workplace\gateway\.idea\vcs.xml" timestamp="1504529772425" />
+    <file path="D:\Workplace\gateway\.idea\workspace.xml" timestamp="1522738921592" />
+    <file path="D:\Workplace\gateway\bi-gateway-client\bi-gateway-client.iml" timestamp="1514538216456" />
+    <file path="D:\Workplace\gateway\bi-gateway-facade\bi-gateway-facade.iml" timestamp="1514538216060" />
+    <file path="D:\Workplace\gateway\bi-gateway-parent.iml" timestamp="1514204519862" />
+    <file path="D:\Workplace\gateway\bi-gateway-service-war\bi-gateway-service-war.iml" timestamp="1519973289482" />
+    <file path="D:\Workplace\gateway\bi-gateway-service\bi-gateway-service.iml" timestamp="1519973289339" />
+    <file path="D:\Workplace\gateway\bi-gateway-war\bi-gateway-war.iml" timestamp="1522734462244" />
+  </project-files>
+</conversion>
+

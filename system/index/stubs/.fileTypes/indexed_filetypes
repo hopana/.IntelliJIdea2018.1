@@ -1,0 +1,33 @@
+1522832953027
+Bash￿stub:com.ansorgit.plugins.bash.lang.psi.stubs.elements.BashStubFileElementType,56￿1522832953021
+Kotlin￿stub:org.jetbrains.kotlin.psi.stubs.elements.KtFileElementType,125￿1522832953026
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1522832953023
+CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1522832953016
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1522832952999
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1522832953020
+KJSM￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,-1395725310￿1522832953012
+Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,38￿1522832953018
+kotlin_builtins￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,-1395725310￿1522832953017
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1522832953008
+AspectJ￿stub:com.intellij.lang.aspectj.psi.stub.AjFileElementType,53￿1522832953025
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1522832953015
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1522832953019
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1522832953002
+JSP￿stub:com.intellij.lang.jsp.NewJspParserDefinition$1,-1260428054￿1522832952990
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1522832953003
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,-774546485￿1522832953007
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1522832953009
+CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,-1395725310￿1522832953006
+JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,41￿1522832953022
+SWF￿binary stub builder:com.intellij.javascript.flex.compiled.SwfFileStubBuilder,-1152518604￿1522832953024
+Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1522832952995
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1522832953013
+FTL￿stub:com.intellij.psi.tree.IStubFileElementType,-1260428058￿1522832952991
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1522832952998
+CFML￿stub:com.intellij.coldFusion.model.psi.stubs.CfmlFileElementType,-1260428024￿1522832952989
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1522832952997
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1152518607￿1522832953014
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1522832953010
+SQL￿stub:com.intellij.sql.psi.stubs.SqlFileElementType,12￿1522832953005
+spring.factories￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1522832953001
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1522832953011

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="F:\tutorials\httpclient\.idea\codeStyles\codeStyleConfig.xml" timestamp="1523343548197" />
+    <file path="F:\tutorials\httpclient\.idea\compiler.xml" timestamp="1523345377275" />
+    <file path="F:\tutorials\httpclient\.idea\encodings.xml" timestamp="1523345377318" />
+    <file path="F:\tutorials\httpclient\.idea\inspectionProfiles\Project_Default.xml" timestamp="1523343525176" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_7.xml" timestamp="1523345377423" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_7.xml" timestamp="1523345377476" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_1.xml" timestamp="1523345377525" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_6_1.xml" timestamp="1523345377564" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_6_1.xml" timestamp="1523345377620" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__com_flipkart_zjsonpatch_zjsonpatch_0_2_1.xml" timestamp="1523345377659" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__com_github_jknack_handlebars_4_0_6.xml" timestamp="1523345377713" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__com_github_tomakehurst_wiremock_2_5_1.xml" timestamp="1523345377820" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__com_google_guava_guava_19_0.xml" timestamp="1523345377876" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__com_jayway_jsonpath_json_path_2_2_0.xml" timestamp="1523345378373" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1523345378432" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__javax_servlet_javax_servlet_api_3_1_0.xml" timestamp="1523345378484" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1523345378537" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__net_bytebuddy_byte_buddy_1_6_14.xml" timestamp="1523345378581" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__net_bytebuddy_byte_buddy_agent_1_6_14.xml" timestamp="1523345378626" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__net_minidev_accessors_smart_1_1.xml" timestamp="1523345378668" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__net_minidev_json_smart_2_2_1.xml" timestamp="1523345378714" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__net_sf_jopt_simple_jopt_simple_4_9.xml" timestamp="1523345378758" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_antlr_antlr4_runtime_4_5_1_1.xml" timestamp="1523345378809" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_apache_commons_commons_collections4_4_0.xml" timestamp="1523345378864" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_5.xml" timestamp="1523345378929" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_apache_httpcomponents_fluent_hc_4_5_3.xml" timestamp="1523345378990" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_apache_httpcomponents_httpasyncclient_4_1_2.xml" timestamp="1523345379036" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" timestamp="1523345379079" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" timestamp="1523345379130" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_nio_4_4_5.xml" timestamp="1523345379174" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" timestamp="1523345379220" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_continuation_9_2_13_v20150730.xml" timestamp="1523345379277" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_http_9_2_13_v20150730.xml" timestamp="1523345379313" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_io_9_2_13_v20150730.xml" timestamp="1523345379340" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_security_9_2_13_v20150730.xml" timestamp="1523345379384" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_server_9_2_13_v20150730.xml" timestamp="1523345379415" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_servlet_9_2_13_v20150730.xml" timestamp="1523345379450" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_servlets_9_2_13_v20150730.xml" timestamp="1523345379480" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_util_9_2_13_v20150730.xml" timestamp="1523345379527" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_webapp_9_2_13_v20150730.xml" timestamp="1523345379556" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_eclipse_jetty_jetty_xml_9_2_13_v20150730.xml" timestamp="1523345379581" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_hamcrest_hamcrest_all_1_3.xml" timestamp="1523345379625" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1523345379677" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" timestamp="1523345379720" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_mockito_mockito_core_2_8_9.xml" timestamp="1523345379766" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_objenesis_objenesis_2_5.xml" timestamp="1523345379809" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_ow2_asm_asm_5_0_3.xml" timestamp="1523345379870" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" timestamp="1523345379925" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_21.xml" timestamp="1523345379977" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_xmlunit_xmlunit_core_2_3_0.xml" timestamp="1523345380031" />
+    <file path="F:\tutorials\httpclient\.idea\libraries\Maven__org_xmlunit_xmlunit_legacy_2_3_0.xml" timestamp="1523345380079" />
+    <file path="F:\tutorials\httpclient\.idea\misc.xml" timestamp="1523343548139" />
+    <file path="F:\tutorials\httpclient\.idea\modules.xml" timestamp="1523345377367" />
+    <file path="F:\tutorials\httpclient\.idea\vcs.xml" timestamp="1523343592845" />
+    <file path="F:\tutorials\httpclient\.idea\workspace.xml" timestamp="1523348103575" />
+    <file path="F:\tutorials\httpclient\httpclient.iml" timestamp="1523345376943" />
+  </project-files>
+</conversion>
+

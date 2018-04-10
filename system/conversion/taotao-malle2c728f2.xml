@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_manager_web_war.xml" timestamp="1487343374718" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_manager_web_war_exploded.xml" timestamp="1514362011557" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_order_war.xml" timestamp="1487343374809" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_order_war_exploded.xml" timestamp="1514362011586" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_portal_war.xml" timestamp="1487343374875" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_portal_war_exploded.xml" timestamp="1492335125811" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_rest_war.xml" timestamp="1487343374925" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_rest_war_exploded.xml" timestamp="1514362011614" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_search_war.xml" timestamp="1487343374979" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_search_war_exploded.xml" timestamp="1514362011639" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_sso_war.xml" timestamp="1487343375029" />
+    <file path="F:\Workspace\taotao-mall\.idea\artifacts\taotao_sso_war_exploded.xml" timestamp="1514362011668" />
+    <file path="F:\Workspace\taotao-mall\.idea\codeStyles\codeStyleConfig.xml" timestamp="1514361967156" />
+    <file path="F:\Workspace\taotao-mall\.idea\compiler.xml" timestamp="1492335125843" />
+    <file path="F:\Workspace\taotao-mall\.idea\encodings.xml" timestamp="1487343635087" />
+    <file path="F:\Workspace\taotao-mall\.idea\inspectionProfiles\Project_Default.xml" timestamp="1492230400700" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1514362011693" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__com_alibaba_druid_1_0_9.xml" timestamp="1514362011738" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" timestamp="1514362011784" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" timestamp="1514362011811" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" timestamp="1514362011856" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__com_github_jsqlparser_jsqlparser_0_9.xml" timestamp="1514362012194" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" timestamp="1514362012237" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__com_github_pagehelper_pagehelper_3_4_2_fix.xml" timestamp="1514362012267" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__commons_codec_commons_codec_1_6.xml" timestamp="1514362012307" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__commons_fileupload_commons_fileupload_1_3_1.xml" timestamp="1514362012351" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__commons_io_commons_io_1_3_2.xml" timestamp="1514362012397" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__commons_io_commons_io_2_2.xml" timestamp="1514362012441" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__commons_io_commons_io_2_3.xml" timestamp="1514362012486" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__commons_logging_commons_logging_1_1_3.xml" timestamp="1514362012529" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__commons_logging_commons_logging_1_2.xml" timestamp="1514362012572" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__commons_net_commons_net_3_3.xml" timestamp="1514362012618" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__javax_servlet_jsp_api_2_0.xml" timestamp="1514362012661" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__javax_servlet_servlet_api_2_5.xml" timestamp="1514362012708" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__joda_time_joda_time_2_5.xml" timestamp="1514362012751" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__jstl_jstl_1_2.xml" timestamp="1514362012795" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1514362012841" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__log4j_log4j_1_2_16.xml" timestamp="1514362012883" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_32.xml" timestamp="1514362012928" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_3_2.xml" timestamp="1514362012973" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_apache_commons_commons_pool2_2_3.xml" timestamp="1514362013016" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" timestamp="1514362013060" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_3.xml" timestamp="1514362013106" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" timestamp="1514362013149" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_apache_httpcomponents_httpmime_4_3_1.xml" timestamp="1514362013193" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_apache_solr_solr_solrj_4_10_3.xml" timestamp="1514362013236" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" timestamp="1514362013282" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_4.xml" timestamp="1514362013327" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml" timestamp="1514362013371" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1514362013414" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_mybatis_mybatis_3_2_8.xml" timestamp="1514362013466" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_2_2.xml" timestamp="1514362013504" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_noggit_noggit_0_5.xml" timestamp="1514362013547" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_slf4j_slf4j_api_1_6_4.xml" timestamp="1514362013592" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_2.xml" timestamp="1514362013642" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_6.xml" timestamp="1514362013688" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" timestamp="1514362013726" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" timestamp="1514362013772" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" timestamp="1514362013816" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" timestamp="1514362013843" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" timestamp="1514362013871" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" timestamp="1514362013904" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" timestamp="1514362013931" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" timestamp="1514362013960" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" timestamp="1514362013985" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" timestamp="1514362014035" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" timestamp="1514362014080" />
+    <file path="F:\Workspace\taotao-mall\.idea\libraries\Maven__redis_clients_jedis_2_7_2.xml" timestamp="1514362014107" />
+    <file path="F:\Workspace\taotao-mall\.idea\misc.xml" timestamp="1505824738682" />
+    <file path="F:\Workspace\taotao-mall\.idea\modules.xml" timestamp="1492335125849" />
+    <file path="F:\Workspace\taotao-mall\.idea\vcs.xml" timestamp="1487343375135" />
+    <file path="F:\Workspace\taotao-mall\.idea\workspace.xml" timestamp="1523341682130" />
+    <file path="F:\Workspace\taotao-mall\taotao-common\taotao-common.iml" timestamp="1502293911115" />
+    <file path="F:\Workspace\taotao-mall\taotao-manager\taotao-manager-mapper\taotao-manager-mapper.iml" timestamp="1514362011284" />
+    <file path="F:\Workspace\taotao-mall\taotao-manager\taotao-manager-pojo\taotao-manager-pojo.iml" timestamp="1502293911045" />
+    <file path="F:\Workspace\taotao-mall\taotao-manager\taotao-manager-service\taotao-manager-service.iml" timestamp="1514362011402" />
+    <file path="F:\Workspace\taotao-mall\taotao-manager\taotao-manager-web\taotao-manager-web.iml" timestamp="1514362011348" />
+    <file path="F:\Workspace\taotao-mall\taotao-manager\taotao-manager.iml" timestamp="1502293911093" />
+    <file path="F:\Workspace\taotao-mall\taotao-order\taotao-order.iml" timestamp="1514362011322" />
+    <file path="F:\Workspace\taotao-mall\taotao-parent\taotao-parent.iml" timestamp="1502293911132" />
+    <file path="F:\Workspace\taotao-mall\taotao-portal\taotao-portal.iml" timestamp="1502293911167" />
+    <file path="F:\Workspace\taotao-mall\taotao-rest\taotao-rest.iml" timestamp="1514362011452" />
+    <file path="F:\Workspace\taotao-mall\taotao-search\taotao-search.iml" timestamp="1514362011474" />
+    <file path="F:\Workspace\taotao-mall\taotao-sso\taotao-sso.iml" timestamp="1514362011500" />
+  </project-files>
+</conversion>
+

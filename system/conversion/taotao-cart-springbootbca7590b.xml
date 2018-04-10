@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\artifacts\taotao_cart_springboot_war.xml" timestamp="1522649755142" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\artifacts\taotao_cart_springboot_war_exploded.xml" timestamp="1522649920612" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\codeStyles\codeStyleConfig.xml" timestamp="1522649694874" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\compiler.xml" timestamp="1522649920667" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\encodings.xml" timestamp="1522649920731" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\inspectionProfiles\Project_Default.xml" timestamp="1522649607556" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_11.xml" timestamp="1522649920831" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_11.xml" timestamp="1522649920909" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_alibaba_dubbo_2_5_3.xml" timestamp="1522649920971" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_fasterxml_classmate_1_3_3.xml" timestamp="1522649921035" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" timestamp="1522649921098" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" timestamp="1522649921156" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" timestamp="1522649921217" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_github_abel533_mapper_2_3_4.xml" timestamp="1522649921277" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" timestamp="1522649921367" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_github_pagehelper_pagehelper_3_7_5.xml" timestamp="1522649921421" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_github_sgroschupf_zkclient_0_1.xml" timestamp="1522649921480" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_google_guava_guava_15_0.xml" timestamp="1522649921541" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml" timestamp="1522649921601" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_jolbox_bonecp_spring_0_8_0_RELEASE.xml" timestamp="1522649921663" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_rabbitmq_amqp_client_3_4_1.xml" timestamp="1522649921712" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_taotao_common_taotao_common_1_0_0_SNAPSHOT.xml" timestamp="1522649921785" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__com_taotao_sso_taotao_sso_interface_1_0_0_SNAPSHOT.xml" timestamp="1522649921855" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_9_3.xml" timestamp="1522649921906" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1522649921957" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__commons_collections_commons_collections_3_2_2.xml" timestamp="1522649922055" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__commons_io_commons_io_1_3_2.xml" timestamp="1522649922115" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__javax_persistence_persistence_api_1_0.xml" timestamp="1522649922193" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" timestamp="1522649922269" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__jline_jline_0_9_94.xml" timestamp="1522649922331" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__jstl_jstl_1_2.xml" timestamp="1522649922392" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1522649922441" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__log4j_log4j_1_2_17.xml" timestamp="1522649922503" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_41.xml" timestamp="1522649922573" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_3_2.xml" timestamp="1522649922634" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" timestamp="1522649922685" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" timestamp="1522649922755" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" timestamp="1522649922828" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" timestamp="1522649922878" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_11.xml" timestamp="1522649922938" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" timestamp="1522649923000" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" timestamp="1522649923048" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" timestamp="1522649923108" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_apache_zookeeper_zookeeper_3_3_3.xml" timestamp="1522649923169" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_9.xml" timestamp="1522649923240" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_eclipse_jdt_core_compiler_ecj_4_5_1.xml" timestamp="1522649923301" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1522649923379" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" timestamp="1522649923441" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_javassist_javassist_3_21_0_GA.xml" timestamp="1522649923501" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" timestamp="1522649923549" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_jboss_netty_netty_3_2_5_Final.xml" timestamp="1522649923611" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_mybatis_mybatis_3_2_8.xml" timestamp="1522649923676" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_2_2.xml" timestamp="1522649923737" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_24.xml" timestamp="1522649923798" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_24.xml" timestamp="1522649923849" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_24.xml" timestamp="1522649923908" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_24.xml" timestamp="1522649923958" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_amqp_spring_amqp_1_7_1_RELEASE.xml" timestamp="1522649924019" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_amqp_spring_rabbit_1_4_0_RELEASE.xml" timestamp="1522649924081" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_5_2_RELEASE.xml" timestamp="1522649924142" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_2_RELEASE.xml" timestamp="1522649924484" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_5_2_RELEASE.xml" timestamp="1522649924560" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_2_RELEASE.xml" timestamp="1522649924621" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_5_2_RELEASE.xml" timestamp="1522649924671" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_2_RELEASE.xml" timestamp="1522649924732" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_5_2_RELEASE.xml" timestamp="1522649924783" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_retry_spring_retry_1_2_0_RELEASE.xml" timestamp="1522649924852" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_aop_4_3_7_RELEASE.xml" timestamp="1522649924914" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_aspects_4_3_7_RELEASE.xml" timestamp="1522649924976" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_beans_4_3_7_RELEASE.xml" timestamp="1522649925034" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_context_4_3_7_RELEASE.xml" timestamp="1522649925085" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_core_4_3_7_RELEASE.xml" timestamp="1522649925134" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_expression_4_3_7_RELEASE.xml" timestamp="1522649925194" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" timestamp="1522649925245" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_messaging_4_3_7_RELEASE.xml" timestamp="1522649925305" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" timestamp="1522649925354" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_web_4_3_7_RELEASE.xml" timestamp="1522649925426" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_springframework_spring_webmvc_4_3_7_RELEASE.xml" timestamp="1522649925486" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\libraries\Maven__org_yaml_snakeyaml_1_17.xml" timestamp="1522649925547" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\misc.xml" timestamp="1522649755068" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\modules.xml" timestamp="1522649755313" />
+    <file path="D:\Workplace\taotao-cart-springboot\.idea\workspace.xml" timestamp="1522836153150" />
+    <file path="D:\Workplace\taotao-cart-springboot\taotao-cart-springboot.iml" timestamp="1522649920471" />
+  </project-files>
+</conversion>
+
