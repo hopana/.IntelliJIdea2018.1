@@ -1,0 +1,18 @@
+<application>
+  <component name="UISettings">
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="FONT_FACE" value="Microsoft YaHei" />
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+  </component>
+</application>
