@@ -36,20 +36,29 @@
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_4.xml" timestamp="1522830252877" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_4.xml" timestamp="1522830252930" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_4.xml" timestamp="1522830252980" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_github_abel533_mapper_2_3_4.xml" timestamp="1523416866832" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" timestamp="1523416889211" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_github_pagehelper_pagehelper_3_7_5.xml" timestamp="1523416889272" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_google_code_findbugs_annotations_2_0_0.xml" timestamp="1523335125732" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_google_code_findbugs_jsr305_1_3_9.xml" timestamp="1523335125808" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_google_guava_guava_11_0_2.xml" timestamp="1523335125872" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_jayway_jsonpath_json_path_2_4_0.xml" timestamp="1522830253255" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml" timestamp="1523416009905" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_jolbox_bonecp_spring_0_8_0_RELEASE.xml" timestamp="1523416009975" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_netflix_archaius_archaius_core_0_6_0.xml" timestamp="1523335125923" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" timestamp="1522830253398" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_9_2.xml" timestamp="1523416866904" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__commons_codec_commons_codec_1_11.xml" timestamp="1522830253459" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__commons_collections_commons_collections_3_2_1.xml" timestamp="1523416866977" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__commons_configuration_commons_configuration_1_8.xml" timestamp="1523335125995" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__commons_io_commons_io_1_3_2.xml" timestamp="1523338722179" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" timestamp="1523335126058" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" timestamp="1523335126126" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__javax_annotation_javax_annotation_api_1_3_2.xml" timestamp="1522830253872" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__javax_persistence_persistence_api_1_0.xml" timestamp="1523416867043" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__javax_validation_validation_api_2_0_1_Final.xml" timestamp="1522830253965" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1522830254027" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_45.xml" timestamp="1523416965622" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__net_bytebuddy_byte_buddy_1_7_10.xml" timestamp="1522830254131" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__net_bytebuddy_byte_buddy_agent_1_7_10.xml" timestamp="1522830254201" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__net_minidev_accessors_smart_1_2.xml" timestamp="1522830254279" />
@@ -72,6 +81,8 @@
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__org_hibernate_validator_hibernate_validator_6_0_7_Final.xml" timestamp="1522830255322" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" timestamp="1522830255382" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__org_mockito_mockito_core_2_15_0.xml" timestamp="1522830255442" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__org_mybatis_mybatis_3_2_8.xml" timestamp="1523416889354" />
+    <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__org_mybatis_mybatis_spring_1_2_2.xml" timestamp="1523416889416" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__org_objenesis_objenesis_2_6.xml" timestamp="1522830255524" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__org_ow2_asm_asm_5_0_4.xml" timestamp="1522830255585" />
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__org_projectlombok_lombok_1_16_20.xml" timestamp="1522830255658" />
@@ -107,9 +118,10 @@
     <file path="D:\develop\Workplace\springboot\.idea\libraries\Maven__org_yaml_snakeyaml_1_19.xml" timestamp="1522830257917" />
     <file path="D:\develop\Workplace\springboot\.idea\misc.xml" timestamp="1523328023414" />
     <file path="D:\develop\Workplace\springboot\.idea\modules.xml" timestamp="1523328024191" />
+    <file path="D:\develop\Workplace\springboot\.idea\uiDesigner.xml" timestamp="1523415136963" />
     <file path="D:\develop\Workplace\springboot\.idea\vcs.xml" timestamp="1522830203194" />
-    <file path="D:\develop\Workplace\springboot\.idea\workspace.xml" timestamp="1523351315875" />
-    <file path="D:\develop\Workplace\springboot\springboot-web\springboot-web.iml" timestamp="1523349188007" />
+    <file path="D:\develop\Workplace\springboot\.idea\workspace.xml" timestamp="1523430683886" />
+    <file path="D:\develop\Workplace\springboot\springboot-web\springboot-web.iml" timestamp="1523416965561" />
   </project-files>
 </conversion>
 

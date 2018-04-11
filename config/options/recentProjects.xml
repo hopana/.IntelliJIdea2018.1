@@ -3,6 +3,8 @@
     <option name="recentPaths">
       <list>
         <option value="D:/develop/Workplace/property" />
+        <option value="F:/Workspace/posadmin_dev" />
+        <option value="D:/develop/Workplace/taotao-cart-springboot" />
         <option value="D:/develop/Workplace/springboot" />
         <option value="F:/Workspace-mtjf/loan" />
         <option value="F:/Workspace/Test" />
@@ -14,12 +16,11 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/develop/Workplace/springboot" />
         <option value="D:/develop/Workplace/property" />
       </list>
     </option>
     <option name="lastPath" value="D:/develop/Workplace/property" />
-    <option name="pid" value="15088" />
+    <option name="pid" value="25760" />
     <option name="additionalInfo">
       <map>
         <entry key="D:/Workplace/MyBatisGenerator">
@@ -578,8 +579,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523355810152" />
-              <option name="buildTimestamp" value="1522093182317" />
+              <option name="projectOpenTimestamp" value="1523440041357" />
+              <option name="buildTimestamp" value="1522093192875" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -589,7 +590,18 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523355810152" />
+              <option name="projectOpenTimestamp" value="1523431832195" />
+              <option name="buildTimestamp" value="1522093182317" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/develop/Workplace/taotao-cart-springboot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523431833226" />
               <option name="buildTimestamp" value="1522093182317" />
             </RecentProjectMetaInfo>
           </value>
@@ -748,6 +760,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="F:/Workspace/posadmin_dev">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523431834357" />
+              <option name="buildTimestamp" value="1522093182317" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="F:/Workspace/roncoo">
           <value>
             <RecentProjectMetaInfo>
@@ -794,6 +817,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="F:/tutorials" />
+    <option name="lastProjectLocation" value="F:/Workspace" />
   </component>
 </application>

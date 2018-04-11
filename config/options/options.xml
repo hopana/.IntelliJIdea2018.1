@@ -27,7 +27,7 @@
     <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
     <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
     <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
-    <property name="ColorChooser.RecentColors" value="238-0-0-255,,,221-0-0-255,,,209-0-0-255,,,221-106-107-255,,,221-101-68-255,,,133-56-60-255,,,93-0-0-255,,,150-12-0-255,,,181-12-0-255,,,188-63-60-255,,,235-77-74-255,,,255-80-77-255,,,40-44-52-255,,,0-127-0-255,,,0-154-0-255,,,0-177-0-255,,,106-233-66-255,,,0-160-0-255,,,0-169-0-255,,,152-195-121-255" />
+    <property name="ColorChooser.RecentColors" value="221-106-107-255,,,221-101-68-255,,,133-56-60-255,,,93-0-0-255,,,150-12-0-255,,,181-12-0-255,,,188-63-60-255,,,235-77-74-255,,,255-80-77-255,,,40-44-52-255,,,0-127-0-255,,,0-154-0-255,,,0-177-0-255,,,106-233-66-255,,,0-160-0-255,,,0-169-0-255,,,152-195-121-255,,,170-204-238-255,,,101-118-135-255,,,58-84-88-255" />
     <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6557789" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
@@ -76,7 +76,7 @@
     <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
     <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter" value="0.3471154" />
     <property name="create.project.preferred.importer" value="Eclipse" />
     <property name="decompiler.legal.notice.accepted" value="true" />
@@ -84,9 +84,9 @@
     <property name="es6.show.auto.import" value="true" />
     <property name="evlsprt3.172" value="15" />
     <property name="export.settings.path" value="C:\Users\Administrator.LAPTOP-SR5GB8MU\Desktop\mySettings-20180325-office.jar" />
-    <property name="file.chooser.recent.files" value="F:/Workspace-mtjf/loan&#10;F:/tutorials/httpclient&#10;F:/Workspace-s2gciy/miaosha_7&#10;F:/Workspace/taotao-mall&#10;D:/develop/Workplace/springboot&#10;F:/Workspace/Test&#10;F:/Workspace/roncoo&#10;D:/develop/Workplace/property&#10;D:/Workplace/springboot/springboot-web/src/main/resources/templates&#10;D:/Workplace/springboot/springboot-web/pom.xml&#10;D:/Workplace/springboot&#10;D:/Workplace/springboot/springboot.iml&#10;C:/Users/Administrator.LAPTOP-SR5GB8MU/Desktop&#10;D:/360Downloads/intelliroutes-1.6.zip&#10;D:/360Downloads/com.jetbrains.ideolog-181.0.7.0.jar&#10;D:/360Downloads/BashSupport-1.6.13.181.zip&#10;D:/360Downloads/MyBatis-3.58.zip&#10;D:/360Downloads/jr-ide-intellij-2018.1.0_13-17.zip&#10;D:/Workplace/property/property-isv/pom.xml&#10;D:/develop/apache-maven-3.5.2/conf/settings.xml&#10;D:/develop/apache-maven-3.5.2&#10;D:/Workplace/bigateway-test/pom.xml&#10;D:/Workplace/gateway&#10;D:/Workplace/property&#10;D:/Workplace/itcast-springboot/pom.xml&#10;D:/Workplace/taotao-cart-springboot/pom.xml&#10;D:/360Downloads/lombok-plugin-0.17.zip&#10;D:/Workplace/springboot-hibernate-validator6&#10;F:/Workspace/leposweb_dev&#10;D:/Workplace/springboot-hibernate-validator6/pom.xml" />
-    <property name="file.gist.reindex.count" value="93689" />
-    <property name="fileTypeChangedCounter" value="17" />
+    <property name="file.chooser.recent.files" value="F:/Workspace/posadmin_dev/WebRoot/WEB-INF/lib&#10;F:/Workspace/posadmin_dev&#10;D:/develop/Workplace/taotao-cart-springboot&#10;F:/Workspace-mtjf/loan&#10;F:/tutorials/httpclient&#10;F:/Workspace-s2gciy/miaosha_7&#10;F:/Workspace/taotao-mall&#10;D:/develop/Workplace/springboot&#10;F:/Workspace/Test&#10;F:/Workspace/roncoo&#10;D:/develop/Workplace/property&#10;D:/Workplace/springboot/springboot-web/src/main/resources/templates&#10;D:/Workplace/springboot/springboot-web/pom.xml&#10;D:/Workplace/springboot&#10;D:/Workplace/springboot/springboot.iml&#10;C:/Users/Administrator.LAPTOP-SR5GB8MU/Desktop&#10;D:/360Downloads/intelliroutes-1.6.zip&#10;D:/360Downloads/com.jetbrains.ideolog-181.0.7.0.jar&#10;D:/360Downloads/BashSupport-1.6.13.181.zip&#10;D:/360Downloads/MyBatis-3.58.zip&#10;D:/360Downloads/jr-ide-intellij-2018.1.0_13-17.zip&#10;D:/Workplace/property/property-isv/pom.xml&#10;D:/develop/apache-maven-3.5.2/conf/settings.xml&#10;D:/develop/apache-maven-3.5.2&#10;D:/Workplace/bigateway-test/pom.xml&#10;D:/Workplace/gateway&#10;D:/Workplace/property&#10;D:/Workplace/itcast-springboot/pom.xml&#10;D:/Workplace/taotao-cart-springboot/pom.xml&#10;D:/360Downloads/lombok-plugin-0.17.zip" />
+    <property name="file.gist.reindex.count" value="95275" />
+    <property name="fileTypeChangedCounter" value="19" />
     <property name="installed.kotlin.plugin.version" value="1.2.30-release-IJ2018.1-1" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA IU-173.4301.25" />
@@ -101,7 +101,7 @@
     <property name="project.wizard.group" value="SpringInitializr" />
     <property name="project.wizard.template" value="Maven" />
     <property name="search.everywhere.max.popup.width" value="910" />
-    <property name="selected.color.option.type" value="CONSOLE_GREEN_OUTPUT" />
+    <property name="selected.color.option.type" value="CONSOLE_USER_INPUT" />
     <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
     <property name="settings.code.style.selected.tab.SQL" value="General" />
     <property name="spring.initializr.service.url.history" value="" />

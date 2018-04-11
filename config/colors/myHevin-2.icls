@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2018-04-10T17:27:37</property>
+    <property name="modified">2018-04-11T15:34:58</property>
     <property name="originalScheme">myHevin-2</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -261,6 +261,12 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e4e4ff" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="6ae942" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
