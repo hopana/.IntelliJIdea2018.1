@@ -3,24 +3,26 @@
     <option name="recentPaths">
       <list>
         <option value="D:/develop/Workplace/property" />
-        <option value="F:/Workspace/posadmin_dev" />
-        <option value="D:/develop/Workplace/taotao-cart-springboot" />
+        <option value="D:/develop/Workplace/wxbank" />
+        <option value="F:/Workspace/roncoo" />
         <option value="D:/develop/Workplace/springboot" />
         <option value="F:/Workspace-mtjf/loan" />
+        <option value="F:/Workspace/posadmin_dev" />
+        <option value="D:/develop/Workplace/taotao-cart-springboot" />
         <option value="F:/Workspace/Test" />
         <option value="F:/tutorials/httpclient" />
         <option value="F:/Workspace-s2gciy/miaosha_7" />
         <option value="F:/Workspace/taotao-mall" />
-        <option value="F:/Workspace/roncoo" />
       </list>
     </option>
     <option name="openPaths">
       <list>
+        <option value="D:/develop/Workplace/wxbank" />
         <option value="D:/develop/Workplace/property" />
       </list>
     </option>
     <option name="lastPath" value="D:/develop/Workplace/property" />
-    <option name="pid" value="25760" />
+    <option name="pid" value="1344" />
     <option name="additionalInfo">
       <map>
         <entry key="D:/Workplace/MyBatisGenerator">
@@ -579,8 +581,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523440041357" />
-              <option name="buildTimestamp" value="1522093192875" />
+              <option name="projectOpenTimestamp" value="1523696385205" />
+              <option name="buildTimestamp" value="1522093141583" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -590,8 +592,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523431832195" />
-              <option name="buildTimestamp" value="1522093182317" />
+              <option name="projectOpenTimestamp" value="1523589225162" />
+              <option name="buildTimestamp" value="1522093192875" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -603,6 +605,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1523431833226" />
               <option name="buildTimestamp" value="1522093182317" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/develop/Workplace/wxbank">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523696385205" />
+              <option name="buildTimestamp" value="1522093141583" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -634,8 +647,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523355180907" />
-              <option name="buildTimestamp" value="1522093182317" />
+              <option name="projectOpenTimestamp" value="1523589217746" />
+              <option name="buildTimestamp" value="1522093192875" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -777,8 +790,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523343488056" />
-              <option name="buildTimestamp" value="1522093145584" />
+              <option name="projectOpenTimestamp" value="1523589230039" />
+              <option name="buildTimestamp" value="1522093192875" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

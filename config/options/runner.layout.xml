@@ -414,6 +414,34 @@
         <option name="tabIndex" value="2" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\Administrator.LAPTOP-SR5GB8MU\.IntelliJIdea2018.1\system\tomcat\Unnamed_wxbank\logs\localhost.2018-04-13.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\Administrator.LAPTOP-SR5GB8MU\.IntelliJIdea2018.1\system\tomcat\Unnamed_wxbank\logs\catalina.2018-04-13.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\Administrator.LAPTOP-SR5GB8MU\.IntelliJIdea2018.1\system\tomcat\Unnamed_wxbank_2\logs\localhost.2018-04-13.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\Administrator.LAPTOP-SR5GB8MU\.IntelliJIdea2018.1\system\tomcat\Unnamed_wxbank_2\logs\catalina.2018-04-13.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Server" />
         <option name="leftProportion" value="0.14936848" />
@@ -483,6 +511,22 @@
       <TabImpl>
         <option name="defaultIndex" value="16" />
         <option name="index" value="16" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="17" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="18" />
+        <option name="index" value="2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="17" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="18" />
+        <option name="index" value="2" />
       </TabImpl>
       <General />
     </runner>
